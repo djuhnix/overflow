@@ -1,0 +1,7 @@
+title: Pages Overflow
+description: Pages d'information pour Overflow
+logo: https://media.discordapp.net/attachments/905393995608358922/907304631372218448/Overflow_Transparent.png?width=650&height=650
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
