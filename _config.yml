@@ -4,4 +4,4 @@ logo: https://media.discordapp.net/attachments/905393995608358922/90730463137221
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme
+	- jekyll-remote-theme
